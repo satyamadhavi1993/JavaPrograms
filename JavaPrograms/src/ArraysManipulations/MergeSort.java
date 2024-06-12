@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class MergeSort_Inprogress {
+public class MergeSort {
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<Integer>(
 				Arrays.asList(344, 523, -542, 11, 3, 8, 67, -35, 87, 14, 76, -12, 35, 11, 74, -423, 239, 0));
