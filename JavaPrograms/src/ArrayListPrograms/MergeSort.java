@@ -1,4 +1,4 @@
-package ArraysManipulations;
+package ArrayListPrograms;
 
 import java.util.ArrayList;
 import java.util.Arrays;
