@@ -2,7 +2,7 @@ package ArrayManipulations;
 
 import java.util.Arrays;
 
-public class CheckSudokuInArray {
+public class CheckSudokuInArray_Inprogress {
     public static void main(String[] args) {
         int[][] sudoku = {
                 { 5, 3, 4, 6, 7, 8, 9, 1, 2 },
